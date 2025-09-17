@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1,
+    "title": "2021 Audi Q2 35 TFSI S line",
+    "price": 17490,
+    "monthly": 247,
+    "img": "https://images.unsplash.com/photo-1518306727298-4c17e1bf6942?q=80&w=1600&auto=format&fit=crop",
+    "specs": {
+      "mileage": 29800,
+      "fuel": "Petrol",
+      "transmission": "Automatic",
+      "body": "SUV"
+    },
+    "badge": "New In"
+  },
+  {
+    "id": 2,
+    "title": "2020 BMW 118i M Sport",
+    "price": 15250,
+    "monthly": 219,
+    "img": "https://images.unsplash.com/photo-1543373014-cfe4f4bc1cdf?q=80&w=1600&auto=format&fit=crop",
+    "specs": {
+      "mileage": 33000,
+      "fuel": "Petrol",
+      "transmission": "Automatic",
+      "body": "Hatchback"
+    },
+    "badge": "Approved"
+  },
+  {
+    "id": 3,
+    "title": "2019 Mercedes CLA 200 AMG Line",
+    "price": 18990,
+    "monthly": 269,
+    "img": "https://images.unsplash.com/photo-1503376780353-7e6692767b70?q=80&w=1600&auto=format&fit=crop",
+    "specs": {
+      "mileage": 41000,
+      "fuel": "Petrol",
+      "transmission": "Automatic",
+      "body": "Coupe"
+    },
+    "badge": "Hot"
+  },
+  {
+    "id": 4,
+    "title": "2020 VW Golf R-Line 1.5 TSI",
+    "price": 13990,
+    "monthly": 205,
+    "img": "https://images.unsplash.com/photo-1549921296-3b4a6bcd0a5b?q=80&w=1600&auto=format&fit=crop",
+    "specs": {
+      "mileage": 36000,
+      "fuel": "Petrol",
+      "transmission": "Manual",
+      "body": "Hatchback"
+    },
+    "badge": "Price Drop"
+  }
+]

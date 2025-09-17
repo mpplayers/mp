@@ -1,0 +1,19 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Brand tokens (edit these) */
+:root{
+  --brand: #000000;       /* primary */
+  --accent: #f59e0b;      /* amber-500 */
+}
+
+.btn-primary{
+  @apply rounded-2xl px-5 py-3 bg-black text-white font-medium shadow hover:opacity-90;
+}
+.btn-secondary{
+  @apply rounded-2xl px-5 py-3 bg-white border border-neutral-300 font-medium;
+}
+.card{
+  @apply rounded-3xl overflow-hidden border border-neutral-200 bg-white shadow-sm;
+}
